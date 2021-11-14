@@ -21,6 +21,7 @@
 - $ touch .env
 - SECRET_KEY=up_j%pqh#q1-v&h2$7up2zys4)k=12hrg$ok#pw23vvy*dvt^v
 - add python-dotenv==0.19.2 to requirements.txt
+- $ pip list
 - $ pip3 install -r requirements.txt
 - config/settings.py
   - import os
